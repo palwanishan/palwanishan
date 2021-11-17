@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palwanishan
-- 👀 I’m interested in Deep learning
+- 👀 I’m interested in Deep learning, RTOS, SLAM
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on SLAM algorithms
 - 📫 How to reach me palwanishan@gmail.com
