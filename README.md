@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palwanishan
-- 👀 I’m interested in Deep learning, RTOS, SLAM
+- 👀 I’m interested in Robot Manipulation, C++, HRI/C
 - 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on SLAM algorithms
+- 💞️ I’m looking to collaborate on HRI/C
 - 📫 How to reach me palwanishan@gmail.com
 
 <!---
