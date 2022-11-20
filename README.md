@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palwanishan
-- 👀 I’m interested in Robot Manipulation, C++, HRI/C
-- 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on HRI/C
+- 👀 I’m interested in Robot Manipulation, HRI/C, Autonomous Robots
+- 🌱 I’m currently learning Deep Reinforcement Learning
+- 💞️ I’m looking to collaborate on mobile robot control
 - 📫 How to reach me palwanishan@gmail.com
 
 <!---
